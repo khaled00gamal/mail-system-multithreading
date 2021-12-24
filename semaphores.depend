@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640013718 source:/home/khaled/Desktop/semaphores/main.c
+	<stdio.h>
+	<stdlib.h>
+
